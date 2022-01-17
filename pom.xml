@@ -63,6 +63,7 @@
 
         <!-- Enforce JDK 11 for building (handled via JBoss parent POM)-->
         <jdk.min.version>11</jdk.min.version>
+<!--        <jdk.min.version>11</jdk.min.version>-->
 
         <!-- Maven Plugins -->
         <version.compiler.plugin>3.8.1</version.compiler.plugin>
